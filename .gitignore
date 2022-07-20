@@ -1,0 +1,6 @@
+.cache
+.env
+data/data.csv
+__pycache__/utils.cpython-310.pyc
+spotify_data.json
+test.py
