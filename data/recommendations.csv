@@ -1,0 +1,21 @@
+track_name,artists,danceability,key,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,track_id
+Dreams,Gabrielle,0.751,9,0.467,-13.652,0.036,0.173,0.0,0.217,0.568,98.783,222773,4,4rV3AYCf4BBBCkIpyLPwUP
+Do Your Thing,Isaac Hayes,0.673,10,0.429,-14.415,0.0437,0.00385,0.159,0.257,0.878,151.663,200933,4,0fDEMKl8YGfu4vrtZRSto9
+A Thousand Miles,Vanessa Carlton,0.56,11,0.825,-3.862,0.0379,0.323,0.0,0.161,0.268,94.931,237493,4,4w1lzcaoZ1IC2K5TwjalRP
+Fat Lip,Sum 41,0.402,9,0.914,-5.215,0.142,0.000579,0.0,0.065,0.626,196.505,178267,4,4KacUpvbA3Mfo05gttTjhN
+Blow,Kesha,0.753,11,0.729,-3.862,0.0392,0.00334,5.66e-05,0.073,0.812,120.013,219973,4,3pYDZTJM2tVBUhIRifWVzI
+That's What You Get,Paramore,0.528,8,0.831,-3.607,0.0429,9.43e-05,0.0,0.141,0.632,131.094,220480,3,1JdKrFyoU05abww0Zv0ayQ
+I'm Ready,Jaden,0.748,6,0.696,-8.927,0.165,0.155,0.00259,0.139,0.414,129.992,189750,4,4kTliHBy7w2SOMtm8qMmOW
+Style,Taylor Swift,0.588,7,0.791,-5.595,0.0402,0.00245,0.00258,0.118,0.487,94.933,231000,4,0ug5NqcwcFR2xrfTkc7k8e
+Girls,Sugababes,0.604,11,0.856,-4.453,0.0291,0.0001,0.0382,0.118,0.705,102.98,191133,4,715c9CkZWZ3NrdWnkFZ17A
+Beauty And A Beat,"Justin Bieber,Nicki Minaj",0.601,0,0.843,-4.87,0.0593,0.000704,5.27e-05,0.0681,0.534,128.002,227987,4,6QFCMUUq1T2Vf5sFUXcuQ7
+Water No Get Enemy,Fela Kuti,0.646,10,0.927,-7.568,0.0535,0.134,0.0515,0.0979,0.897,90.871,660480,4,0DtokGY2f0bi701NhGFpda
+Whole Again,Atomic Kitten,0.747,4,0.706,-4.653,0.0413,0.0844,0.00355,0.174,0.567,94.019,185013,4,16MJqq0vEuW6GRX6faetTm
+Miss You a Little (feat. lovelytheband),"Bryce Vine,lovelytheband",0.636,0,0.886,-4.76,0.0433,0.347,0.0,0.171,0.589,140.888,168180,4,2tijppLc0gaWA2AfPDANvq
+Sick and Tired (ft. Machine Gun Kelly and Travis Barker),"iann dior,Machine Gun Kelly,Travis Barker",0.748,11,0.492,-8.584,0.0498,0.151,0.0,0.146,0.483,145.097,144000,4,0DILU9jjSTnCv1dcbUH3ib
+House On Fire,Mimi Webb,0.61,2,0.747,-4.543,0.109,0.0245,0.0,0.106,0.439,150.088,140803,4,2iHsdUnmKGIuc9oRE3DfgJ
+I GUESS I'M IN LOVE,Clinton Kane,0.422,0,0.34,-6.577,0.0351,0.877,1.77e-05,0.149,0.223,77.213,204094,4,1is8gU4RVcN4J8xItxWoOY
+Shakey Ground,Fishbone,0.71,9,0.843,-5.154,0.0886,0.0293,0.000325,0.233,0.847,86.007,224380,4,7426iYRovqN7S11kQdzVvd
+Livin' It Up,Mandrill,0.746,0,0.612,-10.328,0.117,0.106,0.000182,0.292,0.639,98.742,261945,4,62W5VouctXG9jggZdHaEi1
+Who Is He (And What Is He to You)?,Bill Withers,0.921,1,0.313,-12.543,0.0368,0.104,0.00118,0.0821,0.957,99.3,194428,4,1KywyxekfDEp3Ym7YP7S25
+Move on Up - Single Edit,Curtis Mayfield,0.538,11,0.969,-5.626,0.0906,0.417,0.00154,0.119,0.928,138.652,165790,4,0MHXrqn909p0LRTPsNsGEi

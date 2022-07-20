@@ -1,0 +1,21 @@
+track_name,artists,danceability,key,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,track_id
+Part Of The Band,The 1975,0.717,6,0.51,-8.225,0.0462,0.755,0.105,0.25,0.831,142.01,260149,4,79vEv8zqy9tLYsTxxkXHXq
+Wildfire,John Mayer,0.719,8,0.665,-8.589,0.0331,0.15,0.00092,0.144,0.763,96.999,253493,4,0QTCTu0CXv4X1JEE4gNpGv
+Happier Than Ever - Edit,Billie Eilish,0.334,0,0.599,-5.742,0.0365,0.0468,0.000392,0.205,0.127,161.74,151444,3,32BeYxKPrig1LefHsC0Xuo
+I Knew You Were Trouble (Taylor's Version),Taylor Swift,0.584,6,0.557,-6.371,0.0342,0.0129,0.0,0.0576,0.767,154.008,219760,4,6AtZLIzUINvExIUy4QhdjP
+Can't C Me,2Pac,0.795,0,0.852,-2.238,0.178,0.0442,3.47e-06,0.39,0.673,95.44,330760,4,7rUchbZxrhF29Q0vYjKEU0
+mathematics,bbno$,0.758,3,0.843,-2.842,0.272,0.0608,1.5e-05,0.249,0.871,169.882,147000,4,14wlnbFSJj5VTK5c1cDQMQ
+Born and Raised,John Mayer,0.656,0,0.375,-9.205,0.0248,0.355,0.0069,0.279,0.313,131.8,287640,4,5RYTpsSI7op7UZznXWqhIP
+Bad Habits (feat. Bring Me The Horizon),"Ed Sheeran,Bring Me The Horizon",0.59,11,0.849,-4.691,0.0792,0.0305,0.0,0.11,0.178,131.018,250763,4,7vrKEP66NdiQDPryPG6olO
+Take Me Out,Franz Ferdinand,0.277,4,0.663,-8.821,0.0377,0.000409,0.00051,0.136,0.527,104.561,237027,4,20I8RduZC2PWMWTDCZuuAN
+I'm Not Okay (I Promise),My Chemical Romance,0.21,9,0.94,-3.427,0.123,0.00602,0.0,0.269,0.255,179.722,186480,4,7lRlq939cDG4SzWOF4VAnd
+Hit 'Em Up - Single Version,"2Pac,Outlawz",0.916,7,0.844,-3.967,0.236,0.0394,0.0,0.0778,0.586,95.19,312627,4,0Z2J91b2iTGLVTZC4fKgxf
+As It Was,Harry Styles,0.52,6,0.731,-5.338,0.0557,0.342,0.00101,0.311,0.662,173.93,167303,4,4LRPiXqCikLlN15c3yImP7
+Teenagers,My Chemical Romance,0.463,4,0.857,-3.063,0.0632,0.0506,0.0,0.184,0.856,111.647,161920,4,7j31rVgGX9Q2blT92VBEA0
+P-Funk (Wants To Get Funked Up),Parliament,0.637,9,0.421,-14.327,0.252,0.654,0.0,0.369,0.779,87.507,461160,4,0GIfaHgivfBCV67eYF996A
+Forgot About Dre,"Dr. Dre,Eminem",0.924,8,0.74,-1.299,0.0774,0.0827,0.0,0.163,0.621,133.974,222293,4,7iXF2W9vKmDoGAhlHdpyIa
+Still D.R.E.,"Dr. Dre,Snoop Dogg",0.816,11,0.775,-3.323,0.234,0.16,0.00031,0.0543,0.527,93.431,270587,4,503OTo2dSqe7qk76rgsbep
+Reach,S Club 7,0.6,7,0.825,-5.441,0.0388,0.0114,7.23e-06,0.25,0.779,167.166,242440,4,26ncGZfPWquaQ4PfTCcsID
+STAY (with Justin Bieber),"The Kid LAROI,Justin Bieber",0.591,1,0.764,-5.484,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,4,5HCyWlXZPP0y6Gqq8TgA20
+Don't Stop Movin',S Club 7,0.822,7,0.672,-6.133,0.0329,0.0285,0.0,0.213,0.91,117.033,233627,4,4dzreTCcGVgeF1vCcd22AC
+Chicken Fried,Zac Brown Band,0.566,6,0.713,-4.25,0.0418,0.645,0.0,0.114,0.805,169.861,238147,4,0LQtEJt7x0s6knb6RKdRYc
